@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the King, the Dutchess of Richmond, and the farmers, to be offered against the Bill for transferring the duties of subsidy and aulnage to the Custom-House.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28717</idno><idno type="EEBO-CITATION">99887517</idno>
+  <idno type="VID">190494</idno>
+  <idno type="EEBO-PROQUEST">2240888589</idno>
+  
+            <idno type="STC">Wing R514B</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[30]</idno>
+            <idno type="STC">ESTC R227806</idno>
+            <idno type="PROQUEST">ocm99887517</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887517e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190494)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[95])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the King, the Dutchess of Richmond, and the farmers, to be offered against the Bill for transferring the duties of subsidy and aulnage to the Custom-House.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tariff --  England --  Early works to 1800.</term>
+               <term type="topical_term">Textiles industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190494:1"/>
+            <head>Reasons for the KING, THE Dutchess of <hi>Richmond,</hi> and the Farmers, To be offered against the BILL for <hi>Transferring</hi> the Duties of <hi>Subsidy</hi> and <hi>Aulnage</hi> to the Custom-House.</head>
+            <p>
+               <note place="margin">The Kings Title and Power to let to Farm.</note>
+               <hi>First,</hi> THE <hi>Aulnager</hi> was an Antient Office of the Crown, as appears by <hi>Magna Charta,</hi> and other Statutes; and his Business was to Mea<g ref="char:EOLhyphen"/>sure between the Buyer and Seller; and by the 27 <hi>Edw.</hi> 3. <hi>Cap.</hi> 4. his Fee is ascertain'd to a <hi>Half-Penny</hi> for a whole Cloath, and a <hi>Farthing</hi> on half a Cloath: But the <hi>Subsidy</hi> which is <hi>Four Pence</hi> on a Broad Cloath, and so proportionably on all Woollen Manufac<g ref="char:EOLhyphen"/>tures was, by other Statutes, given the Crown in Lieu of Antient Customs the Kings of <hi>England</hi> had on Wool Exported, as appears by Records, and in the 2 d. part of <hi>Cooks</hi> Institutes, <hi>Fol.</hi> 60. and not for any Office to be performed by the Aulnager, as is most falsely suggested; and altho' by the Statute of 5 &amp; 6 <hi>Edw.</hi> 6. <hi>Cap.</hi> 6. and other Statutes, the Office of the Aulnager is transferred to Searchers and Overseers, to be appointed by every County and City, with a Fee of <hi>Two Pence</hi> a Cloath, for their pains: Yet by those Statutes the Aulnagers Fee is reserved and made part of the Revenue: And these Revenues (with the moiety of Forfeitures) have been Let to Farm above two hundred Years, by virtue of the Stature of the 17 <hi>Edw.</hi> 4. <hi>Cap.</hi> 5. which enables the King to let the same to Farm: And the Seal now used (which they would insinuate to signifie No<g ref="char:EOLhyphen"/>thing) is not the Seal of the Aulnager, which was heretofore a Seal of Content; for his power is taken away by the beforementioned Statutes; but the Seal of the Collector of the Subsidy mentioned in the Statute 27 <hi>Edw.</hi> 3. <hi>Cap.</hi> 4. and signifies only the Receit of the Duties; and the Forfeitures is not for want of the Aulnagers Seal, but the Seal of the Collector of the Subsidy.</p>
+            <p>
+               <note place="margin">The Dutchess her Title.</note>
+               <hi>Secondly,</hi> The Dutchess of <hi>Richmond</hi> hath 2000. l. <hi>per Annum</hi> out of the profits, secured by her Marriage-settlement, and by Decree in <hi>Chancery</hi> for 7600 l. (by her paid for the over-plus above her Joynture, and rent to the Crown to the Executors of the Duke) is a purchaser for valuable conside<g ref="char:EOLhyphen"/>ration of the remainder of a term of Sixty Years to come, purchased from the Crown by the late Duke her Husband in 1664. under the Rent of 997 l. 2. s. to which Rent the same had been reduced by Fines, and other considerations given the Crown, and of a surrender of a former Lease for 60. Years made by King <hi>James</hi> I. to <hi>Lodowick</hi> Duke of <hi>Richmond</hi> for valuable Considerations.</p>
+            <p>
+               <note place="margin">The Farmers Title.</note>
+               <hi>Thirdly,</hi> The present Farmers, for <hi>Nine Thousand Pounds</hi> Fine, are Purchasers from the Dutchess, and her Trustees, of the same Duties, for <hi>Twenty-One Years,</hi> from 1682. under the yearly Rent of 3138 l. The Reason of which Low-Rent, was, That most of the chief Counties, As <hi>York, Lanca<g ref="char:EOLhyphen"/>ster, Gloucester, Norfolk, &amp;c.</hi> were out in Lease for diverse years then to come; and that the Farmers must expend great Sums of Money, be<g ref="char:EOLhyphen"/>fore they could Repay themselves any thing (as in Truth they did): The residue of the Term being <hi>Twenty-Two Years</hi> remaining still solely in the Dutchess, under the said Rent to the Crown.</p>
+            <p>
+               <note place="margin">The Recompence Insufficient.</note> These <hi>Three Rights</hi> appearing thus to be as legally and well vested respectively, as any mans Estate in <hi>England,</hi> and that under the security of the said Act of Parliament, enabling the King to grant the same, to Farm; The Prosecutors of the Bill will not appear Bare-faced to pray them to be destroyed: But as by the Title of the Bill appears, they call it only, <hi>A Bill to Transfer the Duties to the Custom-House, and to give a Recompence for the same to the Crown.</hi> By which very Title of the Bill they Discover themselves; for if it were only to be Transferred, and not Lessened, or taken Away, What need a Recompence for the same?</p>
+            <div type="part">
+               <head>But to Shew that this Bill is not a sufficient Recompence;</head>
+               <p>
+                  <note place="margin">To the Crown.</note>
+                  <hi>First,</hi> Not to the Crown, for it takes away the said Rent to the Crown, and gives nothing in Lieu thereof.</p>
+               <p>
+                  <note place="margin">To the Dutchess.</note>
+                  <hi>Secondly,</hi> Not to the Dutchess: For the Bill does Impose little or no Duty on the Commodities Exported, more than they now pay, but some of them considerably Less, as by the particulars of the Duties now payable, compared with the Bill appears.</p>
+               <p>
+                  <note place="margin">Eases the Home Consumption, to lay it on the Ex<g ref="char:EOLhyphen"/>portation.</note>
+                  <hi>Thirdly,</hi> It Discharges all the Commodities consumed at Home absolutely from these Duties, which by Law the Makers are now to pay, and gives a Duty to be paid by the Merchant, only on the goods Exported, which in the times of Peace, and best Trade, were never above a Third part of the Woollen Manufacture made in the Kingdom; and not only in time of War must be far Less, but also by the Increase and Improvement of Woollen Manufactures in Forreign parts, the Exportation must yearly Decrease. This, and the former Reasons, are Demonstrations, That what the Bill gives, must fall Short greatly above Two parts of the true Value, besides the Uncertainties.</p>
+               <p>
+                  <note place="margin">The Charge at the <hi>Custom-House</hi> as great as Now.</note> The Prosecutors of the Bill would supply this by pretence, that the Expences of Collecting are now great, and will be saved by the Method of the Bill: Whereas they well know, that the Charge at the <hi>Custom-House,</hi> will be very great: But if they intend it should Depend upon the Collection of the Customs, and by the Custom-House-Officers without Charge, there is no such provision made by the Bill, nor what Officers shall Collect and Account for it, nor can it be expected that ever a just Care or Account can be had from Officers without an Allowance; and its hoped,<note place="margin">The Customs but Temporary.</note> they would not have an Estate of Inheritance depend upon what are but Temporary (as the Customs are); for should they Cease five times the Value of these Duties upon exportation would not pay for the Collecting.</p>
+               <p>Two Bills of the same kind, have been brought before Your Lordships, but Your Lordships did not think sit to pass either of them, and the same Reasons still remain.</p>
+               <p>
+                  <note place="margin">The Dutchesses Pet' to the H. of Com' rejected, &amp; not Read.</note> The prosecutors being sensible, those Bills were not a Compensation, have obtained some small Additions of Rates to be added upon such Com<g ref="char:EOLhyphen"/>modities Chiefly; of which, little is Exported, which likewise (if the House of Commons had been pleased to have Heared the Persons interested upon their Peritions, which they Rejected without being read) would have been Demonstrated to that Honourable House, that the said Bill was no manner of Compensation, either in Value, or in point of Remedy.</p>
+               <p>
+                  <note place="margin">The present clear Yearly Value of the Duties.</note> It hath been and will be made appear unto this most Honourable House, that the Yearly value of the said Duties Amounts to 7000 <hi>l.</hi> and upwards, clear of all Charge, and that the same is received only for such <hi>Manufactures</hi> as are Legally Lyable to the Payment of the said Duties; and that the Rates given by this Bill,<note place="margin">The Rates now given, not a Com<g ref="char:EOLhyphen"/>pensation.</note> will Amount to nothing near that Value, besides the Charge of Collection, and all Contingences of Trade and otherwise.</p>
+               <p>It is also Objected, that the Grievances in the Collecting these Duties are so many and great, That the Office and Seal of the <hi>Aulnager</hi> and Col<g ref="char:EOLhyphen"/>lector of the Subsidy, ought to be taken away.</p>
+            </div>
+            <div type="part">
+               <head>To which it is Answered.</head>
+               <p>
+                  <note place="margin">Answer to the Complaints in Collect ing the Duties.</note> THat nothing has been done, but what the Law Directs for Recovering the Duty; and if any Person has suffered, it was the Default of not pay<g ref="char:EOLhyphen"/>ing the Duties (or else <hi>using</hi> indirect means to avoid the payment of it) there being no power to Search or Seize any Goods, until they are Exposed to Sail, or Sold.</p>
+               <p>
+                  <note place="margin">The persons In<g ref="char:EOLhyphen"/>terested willing to submit to a Regulation.</note> But if the present Legal way of Collecting be inconvenient, that is neither an Argument to take away, or lessen the Right, but only to Regulate the manner of Collecting; and all persons concerned, are willing to consent to any Reasonable Proposals for Collecting thereof, so the Legal Du<g ref="char:EOLhyphen"/>ty be continued and secured.</p>
+               <p>
+                  <note place="margin">The present Du<g ref="char:EOLhyphen"/>ties adjudged Le<g ref="char:EOLhyphen"/>gal.</note> That there is no Duty taken or Demanded, but what is expresly settled by Acts of Parliament, and by Antient Records of 300 Years' and upwards, Adjudged upon them, and particularly by all the Judges of <hi>England,</hi> 2 <hi>Jacobi</hi> 1. And by Lord Chief Baron <hi>Hales,</hi> and other Judges; and which pursuant thereto, were Collected long before the Dutchess or Farmers were Concerned.</p>
+               <p>
+                  <note place="margin">The Considera<g ref="char:EOLhyphen"/>tion of the Du<g ref="char:EOLhyphen"/>ties, Beneficial to the Kingdom.</note> If they mean the <hi>Seal</hi> of the <hi>Aulnager</hi> to be taken away, that is so already; but if they mean the <hi>Subsidy,</hi> how comes that to be a Grievance now, which has been paid almost 350 Years, and for the best considerarations? <hi>viz.</hi> The increase of our <hi>Manufacture,</hi> by hindring the Exportati<g ref="char:EOLhyphen"/>on of Wool, whereby the Wealth of this Kingdom has so much increased.</p>
+               <p>
+                  <note place="margin">The <hi>True Reason</hi> of the Bill.</note> But the True Reason of this Duty being a Grievance, is the Great Contributions that have been raised, and Subscriptions that have been obtained by some persons that are the Prosecutors of the Bill, upon the Express Conditions that the Duty shall be taken from the Clothier, and laid upon the Merchants; and to Support this Undertaking, have obtained Petitions and Letters, to that purpose; and now presume, by their circular Letters, to obtain the like to Your Lordships,<note place="margin">And the Dange<g ref="char:EOLhyphen"/>rous Consequence of it.</note> to incline Your Lordships to the passing of the Bill: Well knowing, if they once absolve the Clothier from pay<g ref="char:EOLhyphen"/>ment, and lay it upon the Merchant (as the Bill doth), it will be such a Burthen on Trade, that it is to be Feared, a Future Parliament may see greater cause to take the Duty Transferred to the Custom-House wholly away, and Consequently all the Estates therein utterly destroyed.</p>
+               <p>Wherefore it is humbly hoped the Bill shall not pass.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:190494:2"/>
+            <p>Reasons for the KING, Dutchess of <hi>Richmond,</hi> and the <hi>Farmers,</hi> against Passing the Bill relating to the <hi>Aulnage.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
